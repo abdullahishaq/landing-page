@@ -125,7 +125,7 @@ nav {
 }
 
 
-/* SECTION 2 */
+/* SECTION 3 */
 
 
 .cta-div {
@@ -151,4 +151,18 @@ nav {
     border-radius: 5px;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+
+/* SECTION 3 */
+
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+}
+
+.footer p {
+    padding: 40px 30%;
+    color: #E5E7EB;
 }
